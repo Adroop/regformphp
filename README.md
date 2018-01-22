@@ -1,2 +1,2 @@
 # regformphp
-Elementary php registration form...
+Elementary php registration form using RedBeanPHP
