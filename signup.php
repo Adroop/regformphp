@@ -32,8 +32,8 @@
             $user -> password = password_hash($data['password'], PASSWORD_DEFAULT);
             R::store($user);
             echo '<div style="color: #296;">
-                    <span>Congrats, youve been successfully signed up</span><br>
-                    <a href="index.php">Main page</a>
+                    <span>Congrats, you`ve been successfully signed up</span><br>
+                    <a href="index.php">Main pudge</a>
                 </div>';
         }
         else {
